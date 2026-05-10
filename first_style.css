@@ -1,0 +1,60 @@
+body {
+    background-image: url("IMG_1509 2.JPG");
+    background-repeat: repeat-x;
+    background-color: #F0FF00;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: blue;
+}
+
+h4 {
+    color: red;
+}
+
+p {
+    text-align: right;
+    font-family: Arial;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.darkblue {
+    color: blue;
+}
+
+.purple {
+    color: purple;
+}

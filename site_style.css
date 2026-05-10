@@ -1,0 +1,20 @@
+h1 {
+    font-family: Terminal;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 12%;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    background-color: grey;
+    text-decoration: underline;
+}
+
+p {
+    text-indent: 30px;
+    font-family: Arial;
+    text-align: justify;
+}
